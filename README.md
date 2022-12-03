@@ -1,4 +1,5 @@
-<!---
-aquagummi/aquagummi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+alleged compsci student
+- - -
+* [💻 github](https://github.com/aquagummi)
+* [✍️ tumblr](https://www.tumblr.com/aquagummi)
+* [📺 youtube](https://www.youtube.com/@aquagummi)
